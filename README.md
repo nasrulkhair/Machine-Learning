@@ -1,4 +1,4 @@
-# 📊 Statistics & Machine Learning Analysis  
+# Machine Learning Analysis  
 
 Welcome to this repository! This project contains various statistical and machine learning analyses performed on different datasets. The goal is to explore, visualize, and model data to extract insights and make predictions.  
 
@@ -10,9 +10,7 @@ Welcome to this repository! This project contains various statistical and machin
 - **`results/`** – Reports, visualizations, and model performance metrics  
 
 ## 📈 Topics Covered  
-
-✅ Exploratory Data Analysis (EDA)  
-✅ Statistical Tests (t-tests, ANOVA, chi-square, etc.)  
+ 
 ✅ Regression & Classification Models  
 ✅ Feature Engineering & Selection  
 ✅ Time Series Analysis  
@@ -30,4 +28,4 @@ Welcome to this repository! This project contains various statistical and machin
 
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/your-username/Statistics & Machine Learning Analysis.git
+   git clone https://github.com/nasrulkhair/Machine Learning Analysis.git
